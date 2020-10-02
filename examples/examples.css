@@ -1,6 +1,7 @@
 @CHARSET "ISO-8859-1";
-/* Reset CSS
- * --------------------------------------- */
+/* Edit it according to your requirement*/
+
+/* Reset CSS..........................*/
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
 form,fieldset,input,textarea,p,blockquote,th,td {
     padding: 0;
@@ -178,7 +179,7 @@ p{
 #infoMenu li a{
 	display: block;
 	margin: 0 22px 0 0;
-	color: #333;
+	color: cyan;
 }
 #infoMenu li a:hover{
 	text-decoration:underline;
@@ -213,7 +214,7 @@ p{
 	margin:0;
 }
 #examplesList ul li a:hover{
-	color: #f2f2f2;
+	color: red;
 }
 #examplesList .column{
 	float: left;
